@@ -9,5 +9,5 @@ This is a software adaptation of the Fiery Dragons board game, built using **Pyt
 - **docs/** – Contains project documentation
 - **images/** – Stores all game images
 
-## 🖼️ Original Board Game
+## 🎲 Original Board Game
 ![Fiery Dragons Board Game](images/fiery_dragons_ori_board_game.jpg)
