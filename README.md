@@ -11,3 +11,6 @@ This is a software adaptation of the Fiery Dragons board game, built using **Pyt
 
 ## 🎲 Original Board Game
 ![Fiery Dragons Board Game](images/fiery_dragons_ori_board_game.jpg)
+
+## ♟️ Software Adaptation
+![Fiery Dragons Software](images/fiery_dragons_software.png)
